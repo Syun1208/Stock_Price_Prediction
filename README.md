@@ -17,3 +17,6 @@ To run this project, install it locally using git
 ```
 git clone https://github.com/Syun1208/Stock_Price_Prediction
 ```
+
+# Collecting data
+You can download data from yahoo.com: `DOGE-USD.csv`
