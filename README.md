@@ -11,3 +11,9 @@
 * [Prediction from real data](#prediction-from-real-data)
 * [Trend direction prediction](#trend-direction-prediction)
 * [Deep Reinforcement Learning](#deep-reinforcement-learning)
+
+## Set up
+To run this project, install it locally using git
+```
+git clone https://github.com/Syun1208/Stock_Price_Prediction
+```
