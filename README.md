@@ -22,6 +22,7 @@ git clone https://github.com/Syun1208/Stock_Price_Prediction
 
 # Collecting data
 You can download data from yahoo.com: `DOGE-USD.csv`, `DOGE_TEST.csv`
+
 It includes 1532 rows x 6 columns
 
 # Preprocessing data
