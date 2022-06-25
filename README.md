@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-! [Algorithm schema](./DQN-based-DeepReinforcement-Learning-architecture.png)
+![Algorithm schema](./DQN-based-DeepReinforcement-Learning-architecture.png)
 
 ## Table of contents
 * [Collecting data](#collecting-data)
